@@ -1,4 +1,4 @@
-<h2 align="left">👋 My name is Andy and I'm a front-end developer, from Florida, USA~</h2>
+<h2 align="left">👋 My name is Andy and I'm a Full Stack Developer, from Florida, USA~</h2>
 
 ###
 
